@@ -116,7 +116,7 @@ if(Page=='Predictor'):
     df = user_input_features()
     
     #Loading the data and cleaning it
-    data_path=r'C:\Users\Rutu Desai\AppData\Local\Programs\Python\Python37\final_application\Admission_Predict_Ver1.csv'
+    data_path=r'Admission_Predict_Ver1.csv'
     data=pd.read_csv(data_path)
     data.drop(['Serial No.'],axis=1,inplace=True)
     data.rename(columns={'LOR ':'LOR','Chance of Admit ':'Chance of Admit'},inplace=True)
