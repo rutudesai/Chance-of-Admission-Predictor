@@ -32,7 +32,7 @@ if(Page=='About the Data'):
     st.write("""
     # Chance of Admit-Predictor
 
-    This app predicts the Chances of being admitted in **_Ivy League_** Colleges
+    This app predicts the Chances of being admitted in **_Elite_** Colleges
     """)
     st.write("""
     # About The Data
@@ -85,7 +85,7 @@ if(Page=='Predictor'):
     st.write("""
     # Chance of Admit-Predictor
 
-    This app predicts the Chances of being admitted in **_Ivy League_** Colleges
+    This app predicts the Chances of being admitted in **_Elite_** Colleges
     """)
     st.write("""
     # Predictor
@@ -172,7 +172,7 @@ if(Page=="Visualization"):
     st.write("""
     # Chance of Admit-Predictor
 
-    This app predicts the Chances of being admitted in **_Ivy League_** Colleges
+    This app predicts the Chances of being admitted in **_Elite_** Colleges
     """)
     st.write("""
     # Visualization
